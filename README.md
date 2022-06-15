@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Thiago9x/98c8d9ee339e993e1ec978dcd115ad1d/raw/858bd5b9417310f34bf01f1047e6be717abf204a/gitHubCard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Thiago Trentin</h1>
+<h1 align="left">Hi, I'm Thiago Trentin</h1>
 
 - 💼 Searching for my first job as an trainee or junior developer.
 
